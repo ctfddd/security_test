@@ -1,3 +1,0 @@
-账户配置信息
-accessID=LTAI5tEt2c8By9hQ7p9qBKMJ
-accesskey=1NvihL4mdfL9piR9iqNTVCQWrLKJJ
